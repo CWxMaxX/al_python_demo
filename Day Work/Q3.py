@@ -1,10 +1,6 @@
 # Calculater
 
-print("Calculater")
-print("Enter 1 to '+'")
-print("Enter 2 to '-'")
-print("Enter 3 to '*'")
-print("Enter 4 to '/'")
+print("Calculater\nEnter 1 to '+'\nEnter 2 to '-'\nEnter 3 to '*'\nEnter 4 to '/'")
 
 # Inputs
 selector = int(input("Enter Operator Number : "))
